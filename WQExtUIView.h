@@ -2,9 +2,6 @@
 //  WQExtUIView.h
 //  testGes
 //
-//  Created by WQ on 2017/10/17.
-//  Copyright © 2017年 iflytek. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
